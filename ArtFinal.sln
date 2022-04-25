@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A6354C2-0DD7-4F9E-B816-1165CAB42D21}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Documents\Processing\final\finalcopy\finalcopy.js = ..\..\..\OneDrive\Documents\Processing\final\finalcopy\finalcopy.js
+		finalwebpage.html = finalwebpage.html
+		..\..\..\OneDrive\Documents\Processing\final\finalcopy\index.html = ..\..\..\OneDrive\Documents\Processing\final\finalcopy\index.html
+		..\..\..\OneDrive\Documents\Processing\final\finalcopy\libraries\p5.min.js = ..\..\..\OneDrive\Documents\Processing\final\finalcopy\libraries\p5.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libraries", "libraries", "{98FC9E8A-5D62-4854-AC98-8A8BB59A7360}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Documents\Processing\final\finalcopy\libraries\p5.min.js = ..\..\..\OneDrive\Documents\Processing\final\finalcopy\libraries\p5.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{98FC9E8A-5D62-4854-AC98-8A8BB59A7360} = {1A6354C2-0DD7-4F9E-B816-1165CAB42D21}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14ADEEB-01E4-4B2E-A623-04DA75DD0984}
+	EndGlobalSection
+EndGlobal
